@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @rifqimuhammadaziz
 - 👀 I’m interested in Software Engineering & Cloud Technology Implementation
-- 🌱 I’m currently focusing on Java Programming & Spring Framework
-- 💞️ I’m looking to work or collaborate on Spring Application Project
+- 🌱 I’m currently focusing on Java Spring Boot & SwiftUI Framework
 - 📫 How to reach me rifqimuhammadaziz@gmail.com
 
 <!---
